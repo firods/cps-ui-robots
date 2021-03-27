@@ -1,0 +1,30 @@
+
+{
+  "SideBarOptions":
+  [
+    {"PluginLabel" : "MetaPlugin", "PluginUrl" : "meta"},
+    {"PluginLabel" : "About Cloud Portal", "PluginUrl" : "about"},
+    {"PluginLabel" : "Customer Accounts", "PluginUrl" : "CustomerAccounts"},
+    {"PluginLabel" : "Help", "PluginUrl" : "help"},
+    {"PluginLabel" : "Events History", "PluginUrl" : "events"},
+    {"PluginLabel" : "Pattern Library", "PluginUrl" : "patterns"},
+    {"PluginLabel" : "Mozy Backup", "PluginUrl" : "Saber"},
+    {"PluginLabel" : "Storage Management", "PluginUrl" : "StorageManagement"},
+    {"PluginLabel" : "Data Management", "PluginUrl" : "datamgmt"},
+    {"PluginLabel" : "Development Guide", "PluginUrl" : "guide"}
+  ],
+
+  "SideBarOptionsM":
+  [
+    {"PluginLabel" : "MetaPlugin", "PluginId" : "Meta.Home"},
+    {"PluginLabel" : "About Cloud Portal", "PluginId" : "About.about"},
+    {"PluginLabel" : "Customer Accounts", "PluginId" : "CustomerAccounts.customerList"},
+    {"PluginLabel" : "Homepage", "PluginId" : "homepage"},
+    {"PluginLabel" : "Events", "PluginId" : "Events.eventList"},
+    {"PluginLabel" : "Pattern Library", "PluginId" : "PatternLibrary.dashboard"},
+    {"PluginLabel" : "Saber", "PluginId" : "Saber.dashboard"},
+    {"PluginLabel" : "Storage Management", "PluginId" : "StorageManagement.dashboard"},
+    {"PluginLabel" : "Data Management", "PluginId" : "datamgmt/machines"},
+    {"PluginLabel" : "Plugin Development", "PluginId" : "PluginDevelopmentGuide.guide"}
+  ]
+}

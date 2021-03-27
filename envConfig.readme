@@ -1,0 +1,28 @@
+{
+  "cps_url": "int",                                                                         //e.g. int, stg, prod (use prod upon prior permission)
+  "browser_name": "chrome",                                                                 //e.g. chrome, firefox (firfox will be ignored if mobile_emulation is set true)
+  "mobile_emulation": true,                                                                 //e.g. true, false (device name is a mandate if mobile_emulation is set true)
+  "device_name": "Apple iPhone 6",                                                          //e.g. Google Nexus 5, Samsung Galaxy S4 (one device at a time, device_name will be ignored if mobile_emulation is set to false)
+
+  "salesOps_uname": "a@a.com",
+  "salesOps_pass": "a",
+
+  "tenant_with_storage_uname": "a@a.com",
+  "tenant_with_storage_pass":"a",
+  "tenant_without_storage_uname": "shrikant.firodiya+15151@emc.com",
+  "tenant_without_storage_uname_temp_dpc_130560": "ketaki.deshpande+5@emc.com",
+  "tenant_without_storage_pass": "Admin@123",
+
+  "emc_weboutlook_uname": "shrikant.firodiya@emc.com",
+  "emc_weboutlook_pass": "Admin@9403",
+  "emc_weboutlook_url": "https://email.emc.com/owa/"
+
+  "report_test_mgt" : false,                                                                //e.g. true, false (if true, test case result will be reported to testlink)
+  "test_report_name": "auto_reports_",                                                      //e.g. Hulk_BlaBla_<timestamp> (any name, timestamp will be appended automatically)
+  "user": "",                                                                               //e.g. Tony.Stark (testlink login name)
+  "test_plan_id": "",                                                                       //e.g. 748006 (Test Plan should exist in TestLink, activated and public - tp_cps_ui_robots)
+  "build_id": "",                                                                           //e.g. 6376 (Build should exist in TestLink - bld_cps_ui_robots)
+  "apikey":"",                                                                              //e.g. 65febc8690bdbabe881e5cc57e0a9ef5 (TestLink API key of the user above)
+  "testlinkurl":"https://testlink.ifr.dpccloud.com/lib/api/xmlrpc/v1/xmlrpc.php",           //e.g. Don't mind, just don't change it unless you are sure
+  "overwrite_test_results": false                                                           //e.g. true, false (set it true if you don't want new results for every run)
+}

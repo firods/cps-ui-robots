@@ -1,0 +1,13 @@
+
+{ "SideBarOptions":
+  [
+    {"PluginLabel" : "About Cloud Portal", "PluginUrl" : "about"},
+    {"PluginLabel" : "Customer Accounts", "PluginUrl" : "CustomerAccounts"},
+    {"PluginLabel" : "Help", "PluginUrl" : "help"},
+    {"PluginLabel" : "GeoNAS", "PluginUrl" : "geonas"},
+    {"PluginLabel" : "Pattern Library", "PluginUrl" : "patterns"},
+    {"PluginLabel" : "Mozy Backup", "PluginUrl" : "Saber"},
+    {"PluginLabel" : "Storage Management", "PluginUrl" : "StorageManagement"},
+    {"PluginLabel" : "Data Management", "PluginUrl" : "datamgmt"}
+  ]
+}

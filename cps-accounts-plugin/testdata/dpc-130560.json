@@ -1,0 +1,27 @@
+
+{
+  "SideBarOptionsForTenant":
+  [
+    {"PluginLabel" : "About Cloud Portal", "PluginUrl" : "about"},
+    {"PluginLabel" : "Register an Appliance", "PluginUrl" : "CustomerAccounts/register/appliance"},
+    {"PluginLabel" : "Help", "PluginUrl" : "help"},
+    {"PluginLabel" : "Events History", "PluginUrl" : "events"},
+    {"PluginLabel" : "GeoNAS", "PluginUrl" : "geonas"},
+    {"PluginLabel" : "Pattern Library", "PluginUrl" : "patterns"},
+    {"PluginLabel" : "Mozy Backup", "PluginUrl" : "Saber"},
+    {"PluginLabel" : "Storage Management", "PluginUrl" : "StorageManagement"},
+    {"PluginLabel" : "Data Management", "PluginUrl" : "datamgmt"}
+  ],
+
+  "SideBarOptionsForTenantM":
+  [
+    {"PluginUrl" : "about", "PluginId" : "About.about"},
+    {"PluginUrl" : "cloudboost", "PluginId" : "CloudBoost.ApplianceList"},
+    {"PluginUrl" : "help", "PluginId" : "homepage"},
+    {"PluginUrl" : "events", "PluginId" : "Events.eventList"},
+    {"PluginUrl" : "patterns", "PluginId" : "PatternLibrary.dashboard"},
+    {"PluginUrl" : "Saber", "PluginId" : "Saber.dashboard"},
+    {"PluginUrl" : "StorageManagement", "PluginId" : "StorageManagement.dashboard"},
+    {"PluginUrl" : "datamgmt", "PluginId" : "datamgmt/machines"}
+  ]
+}

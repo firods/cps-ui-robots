@@ -1,0 +1,16 @@
+
+{ "InvalidData": [
+  {"Username" : "admin", "Password" : "root","Message":"Please specify valid email id."},
+  {"Username" : "harsh@emc.com", "Password" : "admin","Message":"The email address or password you entered does not match our records. Please try again."},
+  {"Username" : "", "Password" : "root","Message":"Please specify valid email id."},
+  {"Username" : "harsh@emc.com", "Password" : "","Message":"Please specify valid password."},
+  {"Username" : "abc@", "Password" : "abc@","Message":"Please specify valid email id."},
+  {"Username" : "abc.com", "Password" : "root","Message":"Please specify valid email id."},
+  {"Username" : "HARSH@EMC.COM", "Password" : "root","Message":"The email address or password you entered does not match our records. Please try again."},
+  {"Username" : "", "Password" : "","EmailMessage":"Please specify valid email id."},
+  {"Username" : "harsh@emc.com", "Password" : "ROOT","Message":"The email address or password you entered does not match our records. Please try again."},
+  {"Username" : "space in uname@emc.com", "Password" : "ROOT","Message":"Please specify valid email id."},
+  {"Username" : "a@a.com", "Password" : "space in password","Message":"The email address or password you entered does not match our records. Please try again."}
+]
+
+}
