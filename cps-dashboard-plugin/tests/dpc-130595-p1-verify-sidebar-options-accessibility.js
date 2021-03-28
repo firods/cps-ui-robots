@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130595:Dashboard:P1:Verify sidebar options accessibility", function() {
     var frameworkUtils, loginUtils, dashboardUtils, edit_profileUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
