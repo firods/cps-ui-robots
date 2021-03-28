@@ -1,7 +1,6 @@
 /**
  * Functions and objects declarations for Login Dialogue and related web pages should be automated here
  * Date: 09/10/2015
- * author : Saurabh Patwardhan
  * @type {Function}
  *
  */
