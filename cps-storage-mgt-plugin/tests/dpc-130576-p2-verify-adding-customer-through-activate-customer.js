@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130576 : StorageManagement:P2: Adding new customer through SM using Activate Customer button", function() {
     var frameworkUtils, loginUtils, storageMgtUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
