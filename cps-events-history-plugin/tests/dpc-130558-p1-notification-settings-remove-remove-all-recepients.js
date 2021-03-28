@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130558:EHN:P1:Notification Settings->Remove&RemoveAll recepients", function() {
     var frameworkUtils, loginUtils, dashboardUtils, edit_profileUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
