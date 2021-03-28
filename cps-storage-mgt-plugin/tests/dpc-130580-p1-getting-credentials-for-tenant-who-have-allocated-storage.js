@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130580:StorageManagement:P1:Getting credentials for tenant who have allocated storage", function() {
     var frameworkUtils, loginUtils, storageMgtUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
