@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130556:EHN:P1:Notification Settings->Add recepient(blank,invalid,valid,existing email id)", function() {
     var frameworkUtils, loginUtils, dashboardUtils, edit_profileUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
