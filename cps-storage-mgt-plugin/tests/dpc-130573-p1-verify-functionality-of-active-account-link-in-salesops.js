@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130573:StorageManagement:P1:Verify functionality of Active Account link in salesops", function() {
     var frameworkUtils, loginUtils, storageMgtUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
