@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130594:Dashboard:P1:Successful login lands user on dashboard", function() {
     var frameworkUtils, loginUtils, dashboardUtils, edit_profileUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
