@@ -1,7 +1,3 @@
-/*
- author : Saurabh Patwardhan - aka - Spat!
- */
-
 // import environment configration file.
 var env = require('./envConfig.json');
 
