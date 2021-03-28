@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130711:StorageManagement:P1:Verify warning for customer not having storage allocated", function() {
     var frameworkUtils, loginUtils, storageMgtUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
