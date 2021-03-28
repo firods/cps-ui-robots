@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130577:StorageManagement:P2:Verify Refreshing the page by refresh page salesops", function() {
     var frameworkUtils, loginUtils, storageMgtUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
