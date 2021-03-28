@@ -1,7 +1,6 @@
 /**
  * This file consists of core functions that help non-functional ui-automation e.g. waitforelement or browser launch
  * Date: 09/10/2015
- * author : Saurabh Patwardhan - aka - Spat!
  * @type {Function}
  *
  */
