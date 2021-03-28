@@ -1,7 +1,3 @@
-/*
-    Author: Saurabh Patwardhan
- */
-
 describe("dpc-130609:Dashboard:P1:Verify functionality of bell button", function() {
     var frameworkUtils, loginUtils, dashboardUtils, edit_profileUtils;
     var framework_Utils = require("../../cp-utils/framework_utils.js");
